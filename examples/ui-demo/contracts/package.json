@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-      "pnpm": "^8.7.5",
+      "pnpm": "^10.0.0",
       "solhint": "^3.6.2"
     },
     "scripts": {
