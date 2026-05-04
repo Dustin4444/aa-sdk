@@ -2934,17 +2934,22 @@
     "@hpke/common" "^1.7.2"
     "@noble/ciphers" "^1.2.1"
 
+"@hpke/common@^1.10.0":
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/@hpke/common/-/common-1.10.1.tgz#11f205e5ba24d558c1bd4ac671580d95d488af18"
+  integrity sha512-moJwhmtLtuxiUzzNp1jpfBfx8yefKoO9D/RCR9dmwrnc7qjJqId1rEtQz+lSlU5cabX8daToMSx/7HayXOiaFw==
+
 "@hpke/common@^1.7.2":
   version "1.7.2"
   resolved "https://registry.npmjs.org/@hpke/common/-/common-1.7.2.tgz"
   integrity sha512-x8wGc1S3ANyQpbTXxhDuzQwzZn9IDaOARpEq/QzDyWFBEhOFyN8mJd6oMnvFkxe0H96JFgIU6eI4G2aaNxgFJQ==
 
 "@hpke/core@^1.7.2":
-  version "1.7.2"
-  resolved "https://registry.npmjs.org/@hpke/core/-/core-1.7.2.tgz"
-  integrity sha512-WPsy/Wp1oF+47EVfQdXG55TGS+rOKAAZJ4W/4BFnTENGGq/EAJeX1h0ooCarkqWrJsREsrpa4EiIZkz1m8hMOA==
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@hpke/core/-/core-1.9.0.tgz#4eced0597787f51fdb53ad515c3d47a3abc9fe3a"
+  integrity sha512-pFxWl1nNJeQCSUFs7+GAblHvXBCjn9EPN65vdKlYQil2aURaRxfGMO6vBKGqm1YHTKwiAxJQNEI70PbSowMP9Q==
   dependencies:
-    "@hpke/common" "^1.7.2"
+    "@hpke/common" "^1.10.0"
 
 "@hpke/dhkem-x25519@^1.6.2":
   version "1.6.2"
